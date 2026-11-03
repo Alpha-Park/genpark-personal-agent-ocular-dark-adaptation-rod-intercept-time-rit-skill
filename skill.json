@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-ocular-dark-adaptation-rod-intercept-time-rit-skill",
+  "version": "1.0.0",
+  "description": "Calculates retinal dark adaptation recovery trajectory, Kohlrausch break, and Rod Intercept Time (RIT) to assess scotopic photoreceptor health.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "ophthalmology",
+    "retina",
+    "dark-adaptation",
+    "scotopic",
+    "photoreceptors",
+    "rit",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
